@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+| pa01, 巴頓將軍一 硝煙散英雄返鄉 戰事定鳥盡弓藏 | [下载](https://y2mate.com/zh-cn/search/pa01, 巴頓將軍一 硝煙散英雄返鄉 戰事定鳥盡弓藏) | [下载](zh/202105/pa01, 巴頓將軍一 硝煙散英雄返鄉 戰事定鳥盡弓藏.srt?raw=true) | [下載](zh/202105/pa01, 巴頓將軍一 硝煙散英雄返鄉 戰事定鳥盡弓藏.tw.srt?raw=true) |  [下载](zh/202105/pa01, 巴頓將軍一 硝煙散英雄返鄉 戰事定鳥盡弓藏.txt?raw=true)  |
 |  江峰漫談20210507第320期 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202104/c320.srt?raw=true) | [下載](zh/202104/c320.tw.srt?raw=true) |  [下载](zh/202104/c320.txt?raw=true)  |
 |  江峰漫談20210506第319期 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202104/c319.srt?raw=true) | [下載](zh/202104/c319.tw.srt?raw=true) |  [下载](zh/202104/c319.txt?raw=true)  |
 |  江峰漫談20210504第318期 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202104/c318.srt?raw=true) | [下載](zh/202104/c318.tw.srt?raw=true) |  [下载](zh/202104/c318.txt?raw=true)  |
