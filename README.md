@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  巴頓將軍四 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202105/gp04.srt?raw=true) | [下載](zh/202105/gp04.tw.srt?raw=true) |  [下载](zh/202105/gp04.txt?raw=true)  |
 |  江峰漫談20210528第329期 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202105/c329.srt?raw=true) | [下載](zh/202105/c329.tw.srt?raw=true) |  [下载](zh/202105/c329.txt?raw=true)  |
 |  江峰漫談20210527第328期 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202105/c328.srt?raw=true) | [下載](zh/202105/c328.tw.srt?raw=true) |  [下载](zh/202105/c328.txt?raw=true)  |
 |  江峰漫談20210525第327期 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202105/c327.srt?raw=true) | [下載](zh/202105/c327.tw.srt?raw=true) |  [下载](zh/202105/c327.txt?raw=true)  |
