@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  江峰漫谈20210610第334期 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202105/c334.srt?raw=true) | [下載](zh/202105/c334.tw.srt?raw=true) |  [下载](zh/202105/c334.txt?raw=true)  |
 |  江峰台海风云录第五集20210609 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202105/m005.srt?raw=true) | [下載](zh/202105/m005.tw.srt?raw=true) |  [下载](zh/202105/m005.txt?raw=true)  |
 |  江峰漫谈20210608第333期 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202105/c333.srt?raw=true) | [下載](zh/202105/c333.tw.srt?raw=true) |  [下载](zh/202105/c333.txt?raw=true)  |
 |  江峰漫談20210607第332期 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202105/c332.srt?raw=true) | [下載](zh/202105/c332.tw.srt?raw=true) |  [下载](zh/202105/c332.txt?raw=true)  |
