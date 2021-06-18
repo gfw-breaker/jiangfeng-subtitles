@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  江峰漫谈20210617第337期 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202105/c337.srt?raw=true) | [下載](zh/202105/c337.tw.srt?raw=true) |  [下载](zh/202105/c337.txt?raw=true)  |
 |  江峰漫谈20210616第336期 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202105/c336.srt?raw=true) | [下載](zh/202105/c336.tw.srt?raw=true) |  [下载](zh/202105/c336.txt?raw=true)  |
 |  江峰漫谈20210614第335期 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202105/c335.srt?raw=true) | [下載](zh/202105/c335.tw.srt?raw=true) |  [下载](zh/202105/c335.txt?raw=true)  |
 |  巴頓將軍六 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202105/gp06.srt?raw=true) | [下載](zh/202105/gp06.tw.srt?raw=true) |  [下载](zh/202105/gp06.txt?raw=true)  |
