@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  江峰漫談20210625第339期 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202105/c339.srt?raw=true) | [下載](zh/202105/c339.tw.srt?raw=true) |  [下载](zh/202105/c339.txt?raw=true)  |
 |  江峰漫談20210624第338期 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202105/c338.srt?raw=true) | [下載](zh/202105/c338.tw.srt?raw=true) |  [下载](zh/202105/c338.txt?raw=true)  |
 |  巴頓將軍七 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202105/gp07.srt?raw=true) | [下載](zh/202105/gp07.tw.srt?raw=true) |  [下载](zh/202105/gp07.txt?raw=true)  |
 |  台海風雲錄第7集20210618 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202105/m007.srt?raw=true) | [下載](zh/202105/m007.tw.srt?raw=true) |  [下载](zh/202105/m007.txt?raw=true)  |
