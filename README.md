@@ -5,6 +5,7 @@
 
 | 视频节目名称 | 视频/音频 | 简体字幕 | 正體字幕 | 简体文稿 |
 |---|---|---|---|---|
+|  巴頓將軍九 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202105/gp09.srt?raw=true) | [下載](zh/202105/gp09.tw.srt?raw=true) |  [下载](zh/202105/gp09.txt?raw=true)  |
 |  江峰漫談20210701第341期 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202105/c341.srt?raw=true) | [下載](zh/202105/c341.tw.srt?raw=true) |  [下载](zh/202105/c341.txt?raw=true)  |
 |  江峰漫谈20210628第340期 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202105/c340.srt?raw=true) | [下載](zh/202105/c340.tw.srt?raw=true) |  [下载](zh/202105/c340.txt?raw=true)  |
 |  巴頓將軍八 | [下载](https://y2mate.com/zh-cn/search/) | [下载](zh/202105/gp08.srt?raw=true) | [下載](zh/202105/gp08.tw.srt?raw=true) |  [下载](zh/202105/gp08.txt?raw=true)  |
